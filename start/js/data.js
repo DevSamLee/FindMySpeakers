@@ -41,11 +41,11 @@ const qnaList = [
   },
 
   {
-    q: '6. 기념일이 다가온다. 당신은 어떻게 할 것인가? (ex - 0, 200일)',
+    q: '6. If you need some advice which way do you prefer?',
     a: [
-      { answer: 'a. 무슨 기념일이야, 그냥 평소처럼 해', type: [4] },
-      { answer: 'b. 맛있는 밥이나 사줄까? 아니면 꽃이라도?', type: [0, 3, 6] },
-      { answer: 'c. 이미 깜짝 이벤트 다 준비해놨어', type: [1, 7, 2, 5] },
+      { answer: 'a. Meet mentor or collegues', type: [4] },
+      { answer: 'b. Reseaching', type: [0, 3, 6] },
+      { answer: 'c. Leave it for now, I need to refresh myelf', type: [1, 7, 2, 5] },
     ]
   },
   {
