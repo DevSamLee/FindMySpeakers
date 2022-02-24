@@ -2,9 +2,9 @@ const qnaList = [
   {
     q: '1. When I am tired, I will choose...?  ',
     a: [
-      { answer: 'a. sleep.', type: [0, 1, 2, 3, 4, 5, 6, 7] },
-      { answer: 'b. hang out with people', type: [0, 1, 2, 3, 4, 5, 6, 7] },
-      { answer: 'c. eating.', type: [0, 1, 2, 3, 4, 5, 6, 7] },
+      { answer: 'a. sleep.', type: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] },
+      { answer: 'b. hang out with people', type: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] },
+      { answer: 'c. eating.', type: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] },
     ]
   },
   {
@@ -84,6 +84,10 @@ const infoList = [
     desc: ' '
   },
   {
+    name: 'Your result is Data Science and Machine Learning.',
+    desc: ''
+  },
+  {
     name: 'Your result is Information Security.',
     desc: ''
   },
@@ -92,7 +96,7 @@ const infoList = [
     desc: ''
   },
   {
-    name: 'Your result is Information Technology Operation.',
+    name: 'Your result is Information Technology Operations.',
     desc: ''
   },
   {
@@ -100,11 +104,11 @@ const infoList = [
     desc: ''
   },
   {
-    name: 'Your result is Soft Skill Development.',
+    name: 'Your result is Soft Skills Development.',
     desc: ''
   },
   {
-    name: 'Your result is Business Skill Development.',
+    name: 'Your result is Business Skills Development.',
     desc: ''
   },
   {
