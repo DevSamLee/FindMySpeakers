@@ -1,6 +1,14 @@
 const qnaList = [
   {
-    q: '1. I wish to gain ___ experience from Inspire 2022?',
+    q: '1. When I am tired, I will choose...?  ',
+    a: [
+      { answer: 'a. sleep.', type: [0, 1, 2, 3, 4, 5, 6, 7] },
+      { answer: 'b. hang out with people', type: [0, 1, 2, 3, 4, 5, 6, 7] },
+      { answer: 'c. eating.', type: [0, 1, 2, 3, 4, 5, 6, 7] },
+    ]
+  },
+  {
+    q: '2. I wish to gain ___ experience from Inspire 2022?',
     a: [
       { answer: 'a. Technical/industry insight', type: [1, 2, 4] },
       { answer: 'b. Softskills/people-skills', type: [0, 3, 6, 5] },
@@ -8,19 +16,11 @@ const qnaList = [
     ]
   },
   {
-    q: '2. 좋아하는 사람이 생겨 연락하고자 한다 ',
+    q: '3. Do you believe that investing in space projects is necessary for humanity?',
     a: [
-      { answer: 'a. 바로 먼저 연락한다.', type: [0, 3, 2] },
-      { answer: 'b. 언제 연락할지, 어떻게 말할지 심사숙고하여 연락한다.', type: [1, 6, 5] },
-      { answer: 'c. 상대방에게 먼저 연락 올 때까지 기다린다.', type: [7, 4] },
-    ]
-  },
-  {
-    q: '3. 당신의 고백 스타일은?',
-    a: [
-      { answer: 'a. 호감이 보이면 바로 고백한다', type: [1, 3, 2] },
-      { answer: 'b. 상대방이 고백할 때까지 기다린다', type: [7] },
-      { answer: 'c. 완벽한 분위기, 완벽한 타이밍에서 고백한다.', type: [0, 6, 5, 4] }
+      { answer: 'a. No, we need focus on people on earth.', type: [0, 1, 5] },
+      { answer: 'b. Absolutely, we should support space projects for future generation.', type: [3, 6, 5, 7] },
+      { answer: 'c. I am not sure, maybe?', type: [2, 4] },
     ]
   },
   {
