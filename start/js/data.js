@@ -26,9 +26,9 @@ const qnaList = [
   {
     q: '4. Where do you prefer to store your data such as images and videos from traveling?',
     a: [
-      { answer: 'a. External hard drive" ', type: [1, 2, 4] },
-      { answer: 'b. Cloud" ', type: [7] },
-      { answer: 'c. Printing" ', type: [0, 3, 6, 5] },
+      { answer: 'a. External hard drive" ', type: [4, 5, 6] },
+      { answer: 'b. Cloud" ', type: [0, 1, 2, 3] },
+      { answer: 'c. Printing" ', type: [7, 8] },
     ]
   },
   {
