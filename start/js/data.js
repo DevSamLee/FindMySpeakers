@@ -65,11 +65,11 @@ const qnaList = [
     ]
   },
   {
-    q: '9. 연인이 데이트가 끝난 후, 집에 데려다 달라고 한다',
+    q: '9. After you graduate, what will you be inspired to do?',
     a: [
-      { answer: 'a. 각자 만났던 장소에서 헤어진다.', type: [0, 4] },
-      { answer: 'b. 연인이 살고 있는 집의 역이나 정류장까지 데려다준다.', type: [3, 2, 6, 5] },
-      { answer: 'c. 집 앞까지 데려다준다.', type: [1, 7] },
+      { answer: 'a. Work with a great team and build things.', type: [4, 5] },
+      { answer: 'b. Start your own venture.', type: [0, 1, 7, 8, 9] },
+      { answer: 'c. Move somewhere warmer.', type: [2, 3, 6] },
     ]
   },
 ]
