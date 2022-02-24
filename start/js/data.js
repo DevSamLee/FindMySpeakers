@@ -24,19 +24,19 @@ const qnaList = [
     ]
   },
   {
-    q: '4. Where do you prefer to store your data such as images and videos from traveling?',
+    q: '4. How do you think Information Technologies should be tackled?',
     a: [
-      { answer: 'a. External hard drive" ', type: [4, 5, 6] },
-      { answer: 'b. Cloud" ', type: [0, 1, 2, 3] },
-      { answer: 'c. Printing" ', type: [7, 8] },
+      { answer: 'a. Move fast, break things', type: [0, 1, 2, 6] },
+      { answer: 'b. Slow and steady wins the race', type: [3, 4, 5] },
+      { answer: 'c. Depends on what the boss says', type: [7, 8, 9] }
     ]
   },
   {
-    q: '5. 오늘 연인과 첫 데이트 하는 날이다. 첫 날 허용할 수 있는 스킨십의 범위는?',
+    q: '5. Where do you prefer to store your data such as images and videos from traveling?',
     a: [
-      { answer: 'a. 쑥스러워.. 손 잡기 정도??', type: [1, 7, 4] },
-      { answer: 'b. 요즘 시대가 어느 때인데, 가벼운 뽀뽀까지 가능이야', type: [0, 3, 6]},
-      { answer: 'c. 어차피 내 연인인데 왜?? 모든 스킨십 다 돼!', type: [2, 5] },
+      { answer: 'a. External hard drive" ', type: [1, 2, 4] },
+      { answer: 'b. Cloud" ', type: [7] },
+      { answer: 'c. Printing" ', type: [0, 3, 6, 5] },
     ]
   },
 
