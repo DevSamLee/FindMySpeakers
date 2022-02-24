@@ -1,10 +1,10 @@
 const qnaList = [
   {
-    q: '1. 이성 사이에 진정한 친구는 있다, 없다?',
+    q: '1. I wish to gain ___ experience from Inspire 2022?',
     a: [
-      { answer: 'a. 이성 사이에 친구가 어딨어? 절대 없어', type: [1, 2, 4] },
-      { answer: 'b. 친구 있지, 절대 이성으로만 안 보일뿐', type: [0, 3, 6, 5] },
-      { answer: 'c. 난 잘 모르겠어..', type: [7] },
+      { answer: 'a. Technical/industry insight', type: [1, 2, 4] },
+      { answer: 'b. Softskills/people-skills', type: [0, 3, 6, 5] },
+      { answer: 'c. Problem solving/success stories', type: [7] },
     ]
   },
   {
