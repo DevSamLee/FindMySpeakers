@@ -49,11 +49,11 @@ const qnaList = [
     ]
   },
   {
-    q: '7. 연인이 오늘 머리를 바꾸고 옷도 새로 샀다',
+    q: '7. Software, Hardware, or Management?',
     a: [
-      { answer: 'a. 눈치 못 채고 그냥 있는다', type: [1, 7] },
-      { answer: 'b. 눈치는 채나 말은 꺼내지 않는다', type: [2, 4] },
-      { answer: 'c. "오 대박 오늘 머리도 바꾸고 옷도 새로 샀네?"라고 하며 단번에 눈치챈다', type: [0, 3, 6, 5] },
+      { answer: 'a. Software!', type: [0, 1, 2, 6] },
+      { answer: 'b. Hardware!', type: [3, 5] },
+      { answer: 'c. Management!', type: [4, 7, 8, 9] },
     ]
   },
   {
