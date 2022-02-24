@@ -12,7 +12,7 @@ const qnaList = [
     a: [
       { answer: 'a. Technical/industry insight', type: [1, 2, 4] },
       { answer: 'b. Softskills/people-skills', type: [0, 3, 6, 5] },
-      { answer: 'c. Problem solving/success stories', type: [7] },
+      { answer: 'c. Problem solving/success stories', type: [7, 8, 9] },
     ]
   },
   {
@@ -20,7 +20,7 @@ const qnaList = [
     a: [
       { answer: 'a. No, we need focus on people on earth.', type: [0, 1, 5] },
       { answer: 'b. Absolutely, we should support space projects for future generation.', type: [3, 6, 5, 7] },
-      { answer: 'c. I am not sure, maybe?', type: [2, 4] },
+      { answer: 'c. I am not sure, maybe?', type: [2, 4, 8, 9] },
     ]
   },
   {
@@ -35,7 +35,7 @@ const qnaList = [
     q: '5. Where do you prefer to store your data such as images and videos from traveling?',
     a: [
       { answer: 'a. External hard drive" ', type: [1, 2, 4] },
-      { answer: 'b. Cloud" ', type: [7] },
+      { answer: 'b. Cloud" ', type: [7, 8, 9] },
       { answer: 'c. Printing" ', type: [0, 3, 6, 5] },
     ]
   },
@@ -43,7 +43,7 @@ const qnaList = [
   {
     q: '6. If you need some advice which way do you prefer?',
     a: [
-      { answer: 'a. Meet mentor or collegues', type: [3, 6, 7, 8] },
+      { answer: 'a. Meet mentor or collegues', type: [3, 6, 7, 8, 9] },
       { answer: 'b. Reseaching', type: [1, 4, 5] },
       { answer: 'c. Leave it for now, I need to refresh myelf', type: [2] },
     ]
@@ -53,7 +53,7 @@ const qnaList = [
     a: [
       { answer: 'a. Use my lucky number like birthday, aniversary combination', type: [3, 6, 7, 8] },
       { answer: 'b. Random generator!', type: [1, 4, 5] },
-      { answer: 'c. I will buy the lottery ticket at store that had serveral winners!', type: [0, 2] },
+      { answer: 'c. I will buy the lottery ticket at store that had serveral winners!', type: [0, 2, 9] },
     ]
   },
   {
