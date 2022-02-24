@@ -57,11 +57,11 @@ const qnaList = [
     ]
   },
   {
-    q: '8. 연인이 데이트가 끝난 후, 집에 데려다 달라고 한다',
+    q: '8. If you worked at a big company, where would you be?',
     a: [
-      { answer: 'a. 각자 만났던 장소에서 헤어진다.', type: [0, 4] },
-      { answer: 'b. 연인이 살고 있는 집의 역이나 정류장까지 데려다준다.', type: [3, 2, 6, 5] },
-      { answer: 'c. 집 앞까지 데려다준다.', type: [1, 7] },
+      { answer: 'a. Where the Customers are.', type: [0, 1, 4, 7, 9] },
+      { answer: 'b. Where my boss is.', type: [3, 8] },
+      { answer: 'c. Where the servers are.', type: [2, 5, 6] },
     ]
   },
   {
