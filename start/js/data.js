@@ -24,11 +24,11 @@ const qnaList = [
     ]
   },
   {
-    q: '4. 호감가는 고백 멘트를 고른다면?',
+    q: '4. Where do you prefer to store your data such as images and videos from traveling?',
     a: [
-      { answer: 'a. 박력 그 자체, "야 나랑 사귀자" ', type: [1, 2, 4] },
-      { answer: 'b. 섬세한 "나 너 많이 좋아해, 나랑 사귈래?" ', type: [7] },
-      { answer: 'c. 센스있는 "우리 내일은 연인으로 만날까요" ', type: [0, 3, 6, 5] },
+      { answer: 'a. External hard drive" ', type: [1, 2, 4] },
+      { answer: 'b. Cloud" ', type: [7] },
+      { answer: 'c. Printing" ', type: [0, 3, 6, 5] },
     ]
   },
   {
