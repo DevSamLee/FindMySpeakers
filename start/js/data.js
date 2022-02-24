@@ -84,10 +84,6 @@ const infoList = [
     desc: ' '
   },
   {
-    name: 'Your result is Data Science and Machine Learning.',
-    desc: ''
-  },
-  {
     name: 'Your result is Information Security.',
     desc: ''
   },
