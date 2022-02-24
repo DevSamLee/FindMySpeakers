@@ -43,9 +43,9 @@ const qnaList = [
   {
     q: '6. If you need some advice which way do you prefer?',
     a: [
-      { answer: 'a. Meet mentor or collegues', type: [4] },
-      { answer: 'b. Reseaching', type: [0, 3, 6] },
-      { answer: 'c. Leave it for now, I need to refresh myelf', type: [1, 7, 2, 5] },
+      { answer: 'a. Meet mentor or collegues', type: [3, 6, 7, 8] },
+      { answer: 'b. Reseaching', type: [1, 4, 5] },
+      { answer: 'c. Leave it for now, I need to refresh myelf', type: [2] },
     ]
   },
   {
