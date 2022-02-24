@@ -49,11 +49,11 @@ const qnaList = [
     ]
   },
   {
-    q: '7. Software, Hardware, or Management?',
+    q: '7. If you have a chance to buy lottery ticket, how would you pick the number?',
     a: [
-      { answer: 'a. Software!', type: [0, 1, 2, 6] },
-      { answer: 'b. Hardware!', type: [3, 5] },
-      { answer: 'c. Management!', type: [4, 7, 8, 9] },
+      { answer: 'a. Use my lucky number like birthday, aniversary combination', type: [3, 6, 7, 8] },
+      { answer: 'b. Random generator!', type: [1, 4, 5] },
+      { answer: 'c. I will buy the lottery ticket at store that had serveral winners!', type: [0, 2] },
     ]
   },
   {
