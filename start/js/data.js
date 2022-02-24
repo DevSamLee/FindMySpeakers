@@ -16,11 +16,11 @@ const qnaList = [
     ]
   },
   {
-    q: '3. 당신의 고백 스타일은?',
+    q: '3. How do you think Information Technologies should be tackled?',
     a: [
-      { answer: 'a. 호감이 보이면 바로 고백한다', type: [1, 3, 2] },
-      { answer: 'b. 상대방이 고백할 때까지 기다린다', type: [7] },
-      { answer: 'c. 완벽한 분위기, 완벽한 타이밍에서 고백한다.', type: [0, 6, 5, 4] }
+      { answer: 'a. Move fast, break things', type: [0, 1, 2, 6] },
+      { answer: 'b. Slow and steady wins the race', type: [3, 4, 5] },
+      { answer: 'c. Depends on what the boss says', type: [7, 8, 9] }
     ]
   },
   {
