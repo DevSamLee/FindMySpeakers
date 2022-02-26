@@ -1,4 +1,4 @@
-# FindYourSpeaker
+# FindMySpeakers
 > This repository is a test program for finding suitable speakers for students at Inspire Conference 2022. 
 >
 > Test Link: https://findmyspeakers.netlify.app
