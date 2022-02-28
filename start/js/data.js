@@ -44,7 +44,7 @@ const qnaList = [
     q: '6. If you need some advice which way do you prefer?',
     a: [
       { answer: 'a. Meet mentor or collegues', type: [3, 6, 7, 8] },
-      { answer: 'b. Reseaching', type: [1, 4, 5] },
+      { answer: 'b. Researching', type: [1, 4, 5] },
       { answer: 'c. Leave it for now, I need to refresh myelf', type: [2] },
     ]
   },
@@ -53,7 +53,7 @@ const qnaList = [
     a: [
       { answer: 'a. Use my lucky number like birthday, aniversary combination', type: [3, 6, 7, 8] },
       { answer: 'b. Random generator!', type: [1, 4, 5] },
-      { answer: 'c. I will buy the lottery ticket at store that had serveral winners!', type: [0, 2] },
+      { answer: 'c. I will buy the lottery ticket at store that had several winners!', type: [0, 2] },
     ]
   },
   {
