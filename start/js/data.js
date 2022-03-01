@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const qnaList = [
   {
     q: '1. When I am tired, I will choose...?  ',
