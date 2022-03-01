@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const qnaList = [
   {
     q: '1. When I am tired, I will choose...?  ',
@@ -81,12 +96,7 @@ const infoList = [
   },
   {
     name: 'Your result is Emerging Technology.',
-    desc: ' '
-  },
-  {
-    name: 'Your result is Data Science and Machine Learning.',
-    desc: ''
-  },
+    desc: ' ' 
   {
     name: 'Your result is Information Security.',
     desc: ''
