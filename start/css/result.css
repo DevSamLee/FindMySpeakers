@@ -1,3 +1,16 @@
 #result{
   display: none;
 }
+
+button{
+  background-color:steelblue;
+  color: white;
+  border: none;
+  border-radius: 15px 35px;
+  margin: 0px auto;
+}
+
+button:hover{
+  filter: brightness(103%);
+  text-shadow: white 1px 1px 1px;
+}
