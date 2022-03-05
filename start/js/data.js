@@ -81,7 +81,8 @@ const infoList = [
   },
   {
     name: 'Your result is Emerging Technology.',
-    desc: ' ' 
+    desc: ''
+  },
   {
     name: 'Your result is Information Security.',
     desc: ''
