@@ -2,7 +2,7 @@
   display: none;
 }
 
-button{
+button.linkedin{
   background-color:steelblue;
   color: white;
   border: none;
@@ -10,7 +10,7 @@ button{
   margin: 0px auto;
 }
 
-button:hover{
+button.linkedin:hover{
   filter: brightness(103%);
   text-shadow: white 1px 1px 1px;
 }
