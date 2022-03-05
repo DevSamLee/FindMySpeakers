@@ -19,9 +19,13 @@
 |---------------------|---------------------|
 |![](./image/content_page.png) |![](./image/responsive_page.png) |
 
-| Result page |  LinkedIn share  |
-|---------------------|---------------------|
-|![](./image/result_page.png) |![](./image/linkedin.png) |
+| Result page | 
+|---------------------|
+|![](./image/result_page.png) |
+
+| Export test result to LinkedIn   |
+|---------------------|
+|![](./image/linkedin.png) |
 
 <!-- CONTACT -->
 ## Contact
