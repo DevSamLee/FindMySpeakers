@@ -19,9 +19,9 @@
 |---------------------|---------------------|
 |![](./image/content_page.png) |![](./image/responsive_page.png) |
 
-| Result page |
-|---------------------|
-|![](./image/result_page.png) |
+| Result page |  LinkedIn share  |
+|---------------------|---------------------|
+|![](./image/result_page.png) |![](./image/linkedin.png) |
 
 <!-- CONTACT -->
 ## Contact
