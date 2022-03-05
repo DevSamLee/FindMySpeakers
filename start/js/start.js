@@ -27,6 +27,22 @@ function setResult(){
   resultDesc.innerHTML = infoList[point].desc;
 }
 
+/**
+ * Shares the result of the questionaire to LinkedIn.
+ *
+ * Shares the result of the questionaire to LinkedIn. A new popup window of
+ * size 570x520 is spawned with the relevant media. Options provided by
+ * LinkedIn on post handling will be shown.
+ *
+ * @version 0.0.1
+ * @author DZ-FSDev
+ */
+async function shareToLinkedIn(){
+	let point = calResult();
+	var shareURL = 'https://www.linkedin.com/sharing/share-offsite/?url=https://raw.githubusercontent.com/DZ-FSDev/FindYourSpeaker/master/start/img/image-' + point + '.png';
+	window.open(shareURL, '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');
+}
+
 function goResult(){
   qna.style.WebkitAnimation = "fadeOut 1s";
   qna.style.animation = "fadeOut 1s";
