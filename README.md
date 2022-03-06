@@ -1,14 +1,23 @@
 # FindMySpeakers
+> 
 > This repository is a test program for finding suitable speakers for students at Inspire Conference 2022. 
 >
-> Test Link: https://findmyspeakers.netlify.app
-> 
 > Reference Link: https://inf.run/Kucb (in Korean)
-> 
+
+## How to use
+
+1. Click the link below (no need sign up)
+
+   Link: https://findmyspeakers.netlify.app
+
+2. Choose the best answer of each question
+
+3. Share your result on your linkedIn account
+
 ## Contents
-* html
-* css
-* js
+* HTML
+* CSS
+* Javacript
 
 ## Overview
 | Start page |  
