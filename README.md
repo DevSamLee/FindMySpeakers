@@ -18,7 +18,8 @@
 1. How to export the result page to social media (Thanks for @DZ-FSDev)
 2. Make sure check the data accuracy
 - Had an issue of result page image
-- Replaced the correct image to netlify but won't updated the result page of LinkedIn
+- Replaced the correct image to Netlify but it wouldn't be updated the result page of LinkedIn
+- It took a week for matching the two sites
 
 | Two different results between Netlify and LinkedIn |  
 |---------------------|
