@@ -14,6 +14,17 @@
 
 3. Share your result on your linkedIn account
 
+## What I've learned
+1. How to export the result page to social media (Thanks for @DZ-FSDev)
+2. Make sure check the data accuracy
+- Had an issue of result page image
+- Replaced the correct image to netlify but won't updated the result page of LinkedIn
+
+| Two different results between Netlify and LinkedIn |  
+|---------------------|
+| ![](./image/issue.png) |
+
+
 ## Contents
 * HTML
 * CSS
