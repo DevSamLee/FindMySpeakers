@@ -4,6 +4,13 @@
 >
 > Reference Link: https://inf.run/Kucb (in Korean)
 
+
+## Contents
+* HTML
+* CSS
+* Javacript
+
+
 ## How to use
 
 1. Click the link below (no need sign up)
@@ -13,6 +20,7 @@
 2. Choose the best answer of each question
 
 3. Share your result on your linkedIn account
+
 
 ## What I've learned
 1. How to export the result page to social media (Thanks for @DZ-FSDev)
@@ -25,11 +33,6 @@
 |---------------------|
 | ![](./image/issue.png) |
 
-
-## Contents
-* HTML
-* CSS
-* Javacript
 
 ## Overview
 | Start page |  
